@@ -1,0 +1,39 @@
+[16-Sep-2024 04:08:07 UTC] PHP Warning:  Undefined array key "email" in /home/astricte/public_html/orders.php on line 31
+[16-Sep-2024 04:08:07 UTC] PHP Stack trace:
+[16-Sep-2024 04:08:07 UTC] PHP   1. {main}() /home/astricte/public_html/orders.php:0
+[16-Sep-2024 04:27:43 UTC] PHP Warning:  Undefined array key "cart" in /home/astricte/public_html/update-cart.php on line 25
+[16-Sep-2024 04:27:43 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:43 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/astricte/public_html/update-cart.php on line 25
+[16-Sep-2024 04:27:43 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:43 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:43 UTC] PHP Warning:  Undefined array key "cart" in /home/astricte/public_html/update-cart.php on line 26
+[16-Sep-2024 04:27:43 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:43 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:43 UTC] PHP Warning:  Undefined array key 1 in /home/astricte/public_html/update-cart.php on line 26
+[16-Sep-2024 04:27:43 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:43 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:47 UTC] PHP Warning:  Undefined array key "cart" in /home/astricte/public_html/update-cart.php on line 25
+[16-Sep-2024 04:27:47 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:47 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/astricte/public_html/update-cart.php on line 25
+[16-Sep-2024 04:27:47 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:47 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:47 UTC] PHP Warning:  Undefined array key "cart" in /home/astricte/public_html/update-cart.php on line 26
+[16-Sep-2024 04:27:47 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:47 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:47 UTC] PHP Warning:  Undefined array key 2 in /home/astricte/public_html/update-cart.php on line 26
+[16-Sep-2024 04:27:47 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:47 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:51 UTC] PHP Warning:  Undefined array key "cart" in /home/astricte/public_html/update-cart.php on line 25
+[16-Sep-2024 04:27:51 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:51 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/astricte/public_html/update-cart.php on line 25
+[16-Sep-2024 04:27:51 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:51 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:51 UTC] PHP Warning:  Undefined array key "cart" in /home/astricte/public_html/update-cart.php on line 26
+[16-Sep-2024 04:27:51 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:51 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
+[16-Sep-2024 04:27:51 UTC] PHP Warning:  Undefined array key 3 in /home/astricte/public_html/update-cart.php on line 26
+[16-Sep-2024 04:27:51 UTC] PHP Stack trace:
+[16-Sep-2024 04:27:51 UTC] PHP   1. {main}() /home/astricte/public_html/update-cart.php:0
